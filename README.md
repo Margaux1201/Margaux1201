@@ -7,7 +7,10 @@ Je suis développeuse web & mobile fullstack en reconversion, passionnée par la
 
 🔗 Découvrez mes projets ci-dessous : 
 
-### Projet 1 : Scriptum 📖 (En cours de développement depuis Juillet 🚧)
+### Projet 1 : Scriptum 📖
+Frontend : https://github.com/Margaux1201/scriptumfrontend.git
+
+Backend : https://github.com/Margaux1201/scriptumbackend.git
 
 Tech : React / Next, antd, react-fontawesome, TypeScript  |  Python, Django, Django Rest Framework, PostgreSQL, Cloudinary
 
