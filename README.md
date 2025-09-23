@@ -7,7 +7,7 @@ Je suis développeuse web & mobile fullstack en reconversion, passionnée par la
 
 🔗 Découvrez mes projets ci-dessous : 
 
-### Projet 1 : Scriptum 📖
+### Projet 1 : Scriptum 📖 (version déployé 1.0 : https://scriptumfrontend.vercel.app/)
 Frontend : https://github.com/Margaux1201/scriptumfrontend.git
 
 Backend : https://github.com/Margaux1201/scriptumbackend.git
