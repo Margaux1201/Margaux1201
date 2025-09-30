@@ -40,7 +40,7 @@ Description : Une application mobile qui permet de localiser notre position, de 
 
 ---
 
-### Projet 4 : WeatherApp 🌤
+### Projet 4 : WeatherApp 🌤 (version déployée 1.0 : https://weatherfrontend-omega.vercel.app/)
 Frontend : https://github.com/Margaux1201/weatherfrontend.git
 
 Backend : https://github.com/Margaux1201/weatherbackend.git
