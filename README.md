@@ -18,7 +18,7 @@ Description : Une plateforme web qui permet de consulter des livres pour les lir
 
 ---
 
-### Projet 2 : MyMoviz 🎬
+### Projet 2 : MyMoviz 🎬 (version déployée 1.0 : https://mymovizfrontend-beta.vercel.app/)
 Frontend : https://github.com/Margaux1201/mymovizfrontend.git
 
 Backend : https://github.com/Margaux1201/mymovizbackend.git
